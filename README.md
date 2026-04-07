@@ -3,6 +3,13 @@
 An AI-powered cybersecurity dashboard for detecting and preventing **VNC-based data exfiltration attacks** using behavioral analysis and intelligent monitoring.
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try the project here:**
+👉 https://vnc-shield-ai.vercel.app
+
+---
+
 
 ## 🚀 Problem Statement
 
